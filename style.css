@@ -25,6 +25,10 @@ form>div{
     flex-direction: column;
     margin-bottom: 0.5rem;
 }
+form>div p{
+    text-align: center;
+    padding: 0.5rem 0;
+}
 input[type="text"],input[type="email"],input[type="password"],input[type="submit"],textarea{
  padding: 0.5rem 0.8rem;
  border-radius: 8px;
